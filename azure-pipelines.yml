@@ -4,6 +4,7 @@ trigger:
       - master
       - releases/*
       - testing/azure/*
+      - add-xgb-ctgb
 
 variables:
   REPO: https://github.com/biolab/orange3.git
